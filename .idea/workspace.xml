@@ -4,9 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f06f414d-dbda-4ce0-aaba-11e6c752d760" name="Changes" comment="init GitHub">
+    <list default="true" id="f06f414d-dbda-4ce0-aaba-11e6c752d760" name="Changes" comment="init first run">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COT_analyst.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COT_dashboard.pbix" beforeDir="false" afterPath="$PROJECT_DIR$/COT_dashboard.pbix" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/annual_2017_annual.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/annual_2018_annual.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/annual_2019_annual.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/annual_2020_annual.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/annual_2021_annual.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/annual_2022_annual.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/annual_2023_annual.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/annual_2024_annual.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/annual_merged_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cot_eur.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eurusd_daily_data.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +85,9 @@
       <workItem from="1737286304267" duration="11000" />
       <workItem from="1737286337932" duration="2574000" />
       <workItem from="1737289322784" duration="112000" />
+      <workItem from="1737289452460" duration="2139000" />
+      <workItem from="1737312822412" duration="2000" />
+      <workItem from="1737313349312" duration="438000" />
     </task>
     <task id="LOCAL-00001" summary="init GitHub">
       <option name="closed" value="true" />
@@ -82,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737285718384</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init first run">
+      <option name="closed" value="true" />
+      <created>1737289630027</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737289630027</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +124,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init GitHub" />
-    <option name="LAST_COMMIT_MESSAGE" value="init GitHub" />
+    <MESSAGE value="init first run" />
+    <option name="LAST_COMMIT_MESSAGE" value="init first run" />
   </component>
 </project>
